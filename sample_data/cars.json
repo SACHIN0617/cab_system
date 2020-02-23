@@ -1,0 +1,143 @@
+{
+    "cars":[
+       {
+          "id":1,
+          "car_number":"UP92 A 1000",
+          "car_owner":"Car 1",
+          "is_booked":false,
+          "car_type":"Pink",
+          "lattitude":0,
+          "longitude":0
+       },
+       {
+          "id":2,
+          "car_number":"UP92 A 1001",
+          "car_owner":"Car 2",
+          "is_booked":false,
+          "car_type":"Normal",
+          "lattitude":1,
+          "longitude":0
+       },
+       {
+          "id":3,
+          "car_number":"UP92 A 1002",
+          "car_owner":"Car 3",
+          "is_booked":false,
+          "car_type":"Pink",
+          "lattitude":0,
+          "longitude":1
+       },
+       {
+          "id":4,
+          "car_number":"UP92 A 1003",
+          "car_owner":"Car 4",
+          "is_booked":false,
+          "car_type":"Pink",
+          "lattitude":5,
+          "longitude":3
+       },
+       {
+          "id":5,
+          "car_number":"UP92 A 1004",
+          "car_owner":"Car 5",
+          "is_booked":[
+             false,
+             10,
+             20
+          ],
+          "car_type":"Normal",
+          "lattitude":10,
+          "longitude":20
+       },
+       {
+          "id":6,
+          "car_number":"UP92 A 1005",
+          "car_owner":"Car 6",
+          "is_booked":false,
+          "car_type":"Pink",
+          "lattitude":5,
+          "longitude":3
+       },
+       {
+          "id":7,
+          "car_number":"UP92 A 1006",
+          "car_owner":"Car 7",
+          "is_booked":false,
+          "car_type":"Normal",
+          "lattitude":10,
+          "longitude":20
+       },
+       {
+          "id":8,
+          "car_number":"UP92 A 1007",
+          "car_owner":"Car 8",
+          "is_booked":false,
+          "car_type":"Pink",
+          "lattitude":10,
+          "longitude":18
+       },
+       {
+          "id":9,
+          "car_number":"UP92 A 1008",
+          "car_owner":"Car 1",
+          "is_booked":false,
+          "car_type":"Normal",
+          "lattitude":23,
+          "longitude":15
+       },
+       {
+          "id":10,
+          "car_number":"UP92 A 1009",
+          "car_owner":"Car 10",
+          "is_booked":false,
+          "car_type":"Pink",
+          "lattitude":28,
+          "longitude":28
+       },
+       {
+          "id":11,
+          "car_number":"UP92 A 1010",
+          "car_owner":"Car 11",
+          "is_booked":false,
+          "car_type":"Normal",
+          "lattitude":0,
+          "longitude":0
+       },
+       {
+          "id":12,
+          "car_number":"UP92 A 1011",
+          "car_owner":"Car 12",
+          "is_booked":false,
+          "car_type":"Pink",
+          "lattitude":23,
+          "longitude":8
+       },
+       {
+          "id":13,
+          "car_number":"UP92 A 1012",
+          "car_owner":"Car 13",
+          "is_booked":false,
+          "car_type":"Normal",
+          "lattitude":24,
+          "longitude":7
+       },
+       {
+          "id":14,
+          "car_number":"UP92 A 1013",
+          "car_owner":"Car 14",
+          "is_booked":false,
+          "car_type":"Pink",
+          "lattitude":1,
+          "longitude":5
+       },
+       {
+          "id":15,
+          "car_number":"UP92 A 1014",
+          "car_owner":"Car 15",
+          "is_booked":false,
+          "car_type":"Normal",
+          "lattitude":0,
+          "longitude":30
+       }
+    ]
+ }
